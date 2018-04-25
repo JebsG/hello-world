@@ -1,6 +1,6 @@
 # hello-world
 Ideas and Collaboration
 
-Full-Scale textbsaed game with Gabe.
+Full-Scale textbased Java game with Gabe.
 
-Make hand made GUI for game.
+Develope handmade GUI for game.
